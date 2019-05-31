@@ -6,6 +6,10 @@ This repo provides the solution for the Yoti SDK Back-end test.
 Run the following commands so you can be up and running in no time:
 
 ```
+git clone https://github.com/uydev/yoti.git
+```
+
+```
 php bin/console doctrine:database:create
 ```
 
